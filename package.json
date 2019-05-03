@@ -1,0 +1,19 @@
+{
+  "name": "postman-to-loadtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jasmine example/load.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "loadtest": "^3.0.7"
+  },
+  "devDependencies": {
+    "eslint-plugin-security": "^1.4.0",
+    "jasmine": "^3.4.0"
+  }
+}

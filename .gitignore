@@ -1,0 +1,7 @@
+# Folders
+reports
+example
+node_modules
+
+# Files
+.env
